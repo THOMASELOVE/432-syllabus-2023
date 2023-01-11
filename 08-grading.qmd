@@ -33,7 +33,7 @@ Students whose course average is near or below 70% usually have failed to comple
 
 Student Class Participation grades are determined by Professor Love out of a maximum of 100 points. This determination is based on:
 
-- 20 points for completing the [Welcome to 431  survey](https://bit.ly/431-2022-welcome-survey) that most of you did prior to class, and if you haven't done it, please do so now.
+- 20 points for completing the [Welcome to 432  survey](https://bit.ly/432-2023-welcome-survey) that most of you did prior to class, and if you haven't done it, please do so now.
 - plus up to 60 additional points for Minute Paper responses (5 points for each on-time submission, 3 points for late submissions within 12 hours of the deadline.)
 - plus up to 25 bonus points for actions that help the class, as awarded during the semester
 
