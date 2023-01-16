@@ -19,9 +19,21 @@ The Spring 2023 Teaching Assistants for 432 are:
 
 ## TA office hours
 
-TA office hours are held via Zoom, will begin in January and end in May. The weekly schedule will appear on our [Contact Us page](https://thomaselove.github.io/432-2023/contact.html) as well as in our [Course Calendar](https://thomaselove.github.io/432-2023/calendar.html).
+TA office hours are held via Zoom, and will begin on Friday 2023-01-20, and continue through Sunday 2023-04-30, except for Spring Break (no office hours March 10-17.) The weekly schedule appears below, and on our [Contact Us page](https://thomaselove.github.io/432-2023/contact.html) as well as in our [Course Calendar](https://thomaselove.github.io/432-2023/calendar.html).
 
-- Our Shared Google Drive (432 Spring 2023 Dr Love and Students) will contain Zoom links for each of these sessions in a document called **TA office hours schedule and Zoom links**. 
+All times Eastern.
+
+Date | Time(s)
+:-------: | :------------------
+Sundays | 4:00 - 5:30 PM, 6:00 - 7:00 PM and 8:00 - 9:30 PM
+Mondays | 5:00 - 6:00 PM, 7:00 - 8:30 PM
+Tuesdays | 12 Noon to 12:45 PM
+Wednesdays | 7:30 - 9:00 PM
+Thursdays | 12 Noon to 12:45 PM, 6:00 - 7:30 PM
+Fridays | 5:30 - 7:00 PM
+Saturdays | 10:00 - 11:30 AM
+
+- Our Shared Google Drive (432 Spring 2023 Dr Love and Students) will contain Zoom links for each of these sessions (by Thursday 2023-01-19) in a document called **TA office hours schedule and Zoom links**. 
   - No appointment is necessary. Please just drop in. 
   - Be sure to log into Google via CWRU to access the shared Drive.
 - TA office hours are cancelled during Spring Break.
