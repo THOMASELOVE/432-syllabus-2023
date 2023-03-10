@@ -34,7 +34,7 @@ Students whose course average is near or below 70% usually have failed to comple
 Student Class Participation grades are determined by Professor Love out of a maximum of 100 points. This determination is based on:
 
 - 20 points for completing the [Welcome to 432  survey](https://bit.ly/432-2023-welcome-survey) that most of you did prior to class, and if you haven't done it, please do so now.
-- plus up to 60 additional points for Minute Paper responses (5 points for each on-time submission, 3 points for late submissions within 12 hours of the deadline.)
+- plus up to 60 additional points for responses to the 12 assigned minute papers (5 points for each on-time submission.)
 - plus up to 25 bonus points for actions that help the class, as awarded during the semester
 
 These bonus points have a small impact, generally, but include things like:
@@ -43,7 +43,7 @@ These bonus points have a small impact, generally, but include things like:
 - asking especially helpful questions in the Minute Papers or on Campuswire
 - providing helpful responses to questions and engaging in the discussion on Campuswire
 - identifying interesting visualizations or uses of ideas we're discussing in class in the popular or scientific media (this is also done via Campuswire.)
-- completing (in a timely fashion) special "partially hidden" tasks that Professor Love buries within longer documents to ascertain whether or not you're reading these documents effectively. For an example, see section 14 of this Syllabus.
+- completing (in a timely fashion) special "partially hidden" tasks that Professor Love buries within longer documents to ascertain whether or not you're reading these documents effectively. For an example, see section 9.7 of this Syllabus.
 - plus a few other things that come under the general heading of "being helpful."
 
 Thanks to the bonus, scores up to 105 / 100 in Class Participation are technically possible. Bonus credit is capped so that no one's class participation score will exceed 100 points.
@@ -65,6 +65,10 @@ Your lowest lab score (out of eight) over the course of the semester will be dro
 
 - If you decide to skip a lab, please submit a note to Canvas by the deadline saying that you are skipping the lab.
 - Should you run the risk of needing to miss more than one lab during the semester, contact Professor Love via email.
+
+## Bonus Lab X
+
+[Bonus Lab X](https://thomaselove.github.io/432-2023/labX.html) will be graded according to the specifications provided in the Deadline section of that Lab.
 
 ## Lab Appeal Policy - Request a Review via Google Form
 
